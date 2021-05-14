@@ -1,3 +1,5 @@
+![NLP](https://github.com/Tijaw1/NLP/blob/main/NLP.jpg)
+
 # NLP
 
 Natural language processing (NLP) is concerned with giving computers the ability to understand text and spoken words in much the same way human beings can.
